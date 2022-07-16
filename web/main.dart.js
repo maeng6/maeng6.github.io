@@ -53377,7 +53377,7 @@ A.Bs.prototype={
 O(a,b){return new A.t6(new A.Bt(null),"/",new A.RL(),null)}}
 A.RL.prototype={
 $2(a,b){var s=null
-return new A.ug(b,A.a([new A.cA(480,"MOBILE",B.cn,1),new A.cA(800,"TABLET",B.aJ,1),new A.cA(1000,"DESKTOP",B.cn,1)],t.C3),s,s,360,1800,s,!0,1,!1,s,s,s,s,s,A.fS(s,s,new A.L(4281228096),s,s,s,s,s),s,s,!1,B.dN,!1,s)},
+return new A.ug(b,A.a([new A.cA(480,"MOBILE",B.cn,1),new A.cA(800,"TABLET",B.aJ,1),new A.cA(1000,"DESKTOP",B.cn,1)],t.C3),s,s,360,1400,s,!0,1,!1,s,s,s,s,s,A.fS(s,s,new A.L(4281228096),s,s,s,s,s),s,s,!1,B.dN,!1,s)},
 $S:53}
 A.Bt.prototype={
 O(a,b){var s,r,q,p,o,n=null,m=4281228096,l=4294967295,k=b.P(t.w).f,j=k.a,i=j.b
